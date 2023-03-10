@@ -1,5 +1,6 @@
 # lootFilter_Plus
-partially translated clone of seonHee mod.
+Partially translated clone of seonHee mod.
+Loot filter is different from seonHee. Simple and clean.
 
 Clone this repo directly into mods folder of d2r
 
